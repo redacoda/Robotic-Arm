@@ -15,12 +15,12 @@ L'effecteur terminal, une pince contrôlée par un 7e servo moteur, n'est pas pr
 
 ## Les servo : 
 
-* Servomoteur 1 : Monté en prise directe. Présence de deux roulement : un 6804, pour le palonnier du moteur, et un 51108 à butée axiale pour supporter le poids. (Moteur 35kg/cm)
-* Servomoteur 2 : Action déportée. Présence d'un système de pignon courroie de ratio 1:2. Deux roulements 608 présent de part et d'autre du joint. (Moteur 35kg/cm)
-* Servomoteur 3 : Action déportée. Présence d'un système de pignon courroie de ratio 1:2. Deux roulements 608 présent de part et d'autre du joint. (Moteur 35kg/cm)
-* Servomoteur 4 : Monté en prise directe. Présence de deux roulement : un 6804, pour le palonnier du moteur, et un 51108 à butée axiale pour supporter le poids. (Moteur 25kg/cm)
-* Servomoteur 5 : Action déportée. Présence d'un système de pignon courroie de ratio 1:2. Deux roulements 608 présent de part et d'autre du joint.(Moteur 25kg/cm)
-* Servomoteur 6 : Monté en prise directe. Présence de deux roulement : un 6804, pour le palonnier du moteur, et un 51108 à butée axiale pour supporter le poids.(Moteur 25kg/cm)
+* Servomoteur 1 : Joint horizontal. Monté en prise directe. Présence de deux roulement : un 6804, pour le palonnier du moteur, et un 51108 à butée axiale pour supporter le poids. (Moteur 35kg/cm)
+* Servomoteur 2 : Joint vertical. Action déportée. Présence d'un système de pignon courroie de ratio 1:2. Deux roulements 608 présent de part et d'autre du joint. (Servo 35kg/cm)
+* Servomoteur 3 : Joint vertical. Action déportée. Présence d'un système de pignon courroie de ratio 1:2. Deux roulements 608 présent de part et d'autre du joint. (Servo 35kg/cm)
+* Servomoteur 4 : Joint horizontal. Monté en prise directe. Présence de deux roulement : un 6804, pour le palonnier du moteur, et un 51108 à butée axiale pour supporter le poids. (Servo 25kg/cm)
+* Servomoteur 5 : Joint vertical. Monté en prise directe. Un roulements 608 présent de l'autre côté du servo.(Servo 25kg/cm)
+* Servomoteur 6 : Joint horizontal. Monté en prise directe. Présence de deux roulement : un 6804, pour le palonnier du moteur, et un 51108 à butée axiale pour supporter le poids.(Servo 25kg/cm)
 
 ## Configuration électrique :
 
