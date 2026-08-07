@@ -1,14 +1,10 @@
 # Brasilic
 
----
-
 ## Overview
 
 Ce robot est un robot 6 DOF avec 3 joints horizontaux et 3 joints verticaux. La taille du robot et un peu supérieur à 60cm. 
 
 A la base du robot il y a des emplacement pour un Arduino, un PCA9685 et un RaspberryPi (pour une prochaine version).
-
----
 
 ## Les servo : 
 
