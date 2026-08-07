@@ -20,7 +20,7 @@ L'effecteur terminal, une pince controlée par un 7e servo moteur, n'est pas pr�
 * Servo moteur 3 : Action déportée. Présence d'un système de pignon courroie de ratio 1:2. Deux roulement 608 présent de part et d'autre du joint. (Moteur 35kg/cm)
 * Servo moteur 4 : Monté en prise directe. Présence de deux roulement : un 6804, pour le palonnier du moteur, et un 51108 à butée axiale pour supporter le poids. (Moteur 25kg/cm)
 * Servo moteur 5 : Action déportée. Présence d'un système de pignon courroie de ratio 1:2. Deux roulement 608 présent de part et d'autre du joint.(Moteur 25kg/cm)
-* Servo moteur 4 : Monté en prise directe. Présence de deux roulement : un 6804, pour le palonnier du moteur, et un 51108 à butée axiale pour supporter le poids.(Moteur 25kg/cm)
+* Servo moteur 6 : Monté en prise directe. Présence de deux roulement : un 6804, pour le palonnier du moteur, et un 51108 à butée axiale pour supporter le poids.(Moteur 25kg/cm)
 
 
 
