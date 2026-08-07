@@ -1,5 +1,9 @@
 # Brasilic
 
+## Instructions 
+
+Pour visualiser le robot, faites >> Bras Robotique >> Visualisation et choisissez entre le fichier `Visualisation finale.step` et `Visualisation finale.FCStd` (FreeCAD).
+
 ## Overview
 
 Ce robot est un robot 6 DOF avec 3 joints horizontaux et 3 joints verticaux. La taille du robot est un peu supérieure à 60cm. 
